@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<accessability>public</accessability>
+	<data id="584eba2a-c619-4f19-9898-997ae3d12bf1" name="AMOUNT" xml:space="preserve">
+		<value>Valor</value>
+		<comment/>
+	</data>
+	<data id="75644aad-727c-48e8-bf22-5be54f832b21" name="DATE" xml:space="preserve">
+		<value>Data</value>
+		<comment/>
+	</data>
+	<data id="f2eae844-d497-4eb7-871e-280e5c1394d6" name="DESCRIPTION" xml:space="preserve">
+		<value>Descrição</value>
+		<comment/>
+	</data>
+	<data id="223914a6-ae08-448c-88d5-9a4e943be373" name="PAYMENT_TYPE" xml:space="preserve">
+		<value>Tipo de Pagamento</value>
+		<comment/>
+	</data>
+	<data id="9582aeed-7035-49e5-b19d-8d218afe28b3" name="TITLE" xml:space="preserve">
+		<value>Título</value>
+		<comment/>
+	</data>
+	<data id="a7bdc838-ca12-4764-8205-e6ff2168462a" name="CASH" xml:space="preserve">
+		<value>Dinheiro</value>
+		<comment/>
+	</data>
+	<data id="dccc0e18-9858-4194-a59b-a66b059aae0c" name="DEBIT_CARD" xml:space="preserve">
+		<value>Cartão de Débito</value>
+		<comment/>
+	</data>
+	<data id="bf5f2af4-85c0-4c5a-bdfa-8c5d34b15c3c" name="CREDIT_CARD" xml:space="preserve">
+		<value>Cartão de Crédito</value>
+		<comment/>
+	</data>
+	<data id="505de60f-bc59-48b3-8f9a-9f3bc811a6ce" name="ELETRONIC_TRANSFER" xml:space="preserve">
+		<value>Transferência Eletrônica</value>
+		<comment/>
+	</data>
+	<data id="8c3740ae-3501-4985-8208-84029eb64652" name="EXPENSES_FOR" xml:space="preserve">
+		<value>Despesas para</value>
+		<comment/>
+	</data>
+	<data id="3e87f697-24b1-4b70-8747-e77522cbbd9b" name="TOTAL_SPENT_IN" xml:space="preserve">
+		<value>Total gasto em {0}</value>
+		<comment/>
+	</data>
+</root>

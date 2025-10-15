@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<accessability>public</accessability>
+	<data id="15c45bcf-6aec-4d47-abb8-3f33b5837c56" name="AMOUNT_MUST_BE_GREATER_THAN_ZERO" xml:space="preserve">
+		<value>Le montant doit être supérieur à zéro.</value>
+		<comment/>
+	</data>
+	<data id="3284c002-35da-447c-a5cd-de5a989f95b5" name="EXPENSES_CANNOT_FOR_THE_FUTURE" xml:space="preserve">
+		<value>Les dépenses ne peuvent pas être futures.</value>
+		<comment/>
+	</data>
+	<data id="e24c5d62-f8c8-4abb-bfbe-33e0b7d59dd7" name="PAYMENT_TYPE_INVALID" xml:space="preserve">
+		<value>Le type de paiement n'est pas valide.</value>
+		<comment/>
+	</data>
+	<data id="169a21fb-329a-4704-b813-9dc9dc950048" name="TITLE_REQUIRED" xml:space="preserve">
+		<value>Le titre est obligatoire!</value>
+		<comment/>
+	</data>
+	<data id="ae5b20c8-38c6-410e-92ef-820ba384d00c" name="UNKNOW_ERROR" xml:space="preserve">
+		<value>Erreur inconnue</value>
+		<comment/>
+	</data>
+	<data id="3c2b8120-e6c1-486d-a6aa-ddda28ff250c" name="EXPENSE_NOT_FOUND" xml:space="preserve">
+		<value>Dépense non trouvée.</value>
+		<comment/>
+	</data>
+</root>
